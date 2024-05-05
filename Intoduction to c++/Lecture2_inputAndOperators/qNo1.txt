@@ -1,0 +1,8 @@
+output for question number 1 is 
+
+Enter first number
+4
+Enter second number and value for taking modulus
+5
+4
+Output is: 0

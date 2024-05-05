@@ -1,0 +1,5 @@
+Enter first number
+5
+Enter second number
+6
+1 0
