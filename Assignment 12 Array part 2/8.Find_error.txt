@@ -1,0 +1,10 @@
+double getAverage(int arr[], int size);
+int main () {
+int balance[5] = {1000, 2, 3, 17, 50};
+double avg;
+avg = getAverage( balance[0], 5 ) ;
+cout << "Average value is: " << avg << endl;
+return
+
+
+The error in the given code is that getAverage function is not returning anything but we are trying to store that value in avg
